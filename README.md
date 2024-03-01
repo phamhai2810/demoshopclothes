@@ -18,4 +18,4 @@ Giao diện sẽ bao gồm:
 
 Giao diện trang Chủ: 'http://127.0.0.1:8000/'
 
-Giao diện Trang Admin: 'http://127.0.0.1:8000/admin'
+Giao diện Trang Admin: 'http://127.0.0.1:8000/admin'. (Tài khoản và mật khẩu sẽ được cung cấp trên màn hình đăng nhập)
